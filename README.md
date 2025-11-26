@@ -1,8 +1,8 @@
 # project-personal 
-![home](screenshot 2025-11-26 200507.png)
-![about](screenshot 2025-11-26 200529.png)
-![Contact us](screenshot 2025-11-26 200545.png)
-![projects](screenshot 2025-11-26 200600.png)
+![home](<img width="1899" height="911" alt="Screenshot 2025-11-26 200507" src="https://github.com/user-attachments/assets/b25cac3c-b65e-4859-b0f9-53e61c5fec61" />
+![about](<img width="1897" height="911" alt="Screenshot 2025-11-26 200529" src="https://github.com/user-attachments/assets/a1fa812e-fc23-40ab-9179-2b9175305a04" />
+![Contact us](<img width="1898" height="909" alt="Screenshot 2025-11-26 200545" src="https://github.com/user-attachments/assets/c64254d9-cb56-45a0-8182-b7b88f872a7e" />
+![projects](<img width="1900" height="910" alt="Screenshot 2025-11-26 200600" src="https://github.com/user-attachments/assets/8a7fc651-9baf-47dd-90a8-433076870213" />
 
 ##live Demo 
 www.matinazad.ir
